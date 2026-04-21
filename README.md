@@ -16,8 +16,9 @@ Many store owners struggle to visualize the scale of their lost revenue. Abandon
 - Fully Responsive: Optimized for a seamless experience across desktop and mobile screens.
 
 ## Preview
-![Homepage](./images/homepage.png)
-![Mobile View](./images/mobile.png)
+![Homepage](assets/Homepage.jpeg)
+![Mobile View](assets/Mobile.jpeg)
+![Mobile View](assets/Mobile_2.jpeg)
 
 ## Problems I Solved
 - Complex Grid Management: One of the biggest challenges was organizing the various dashboard widgets (charts, lists, and cards) using CSS Grid. I ensured that each element aligned perfectly to maintain a professional, balanced aesthetic.
